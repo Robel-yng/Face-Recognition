@@ -5,13 +5,13 @@ const Rank = () => {
     return ( <
         div >
         <
-        div className = "white f3" > { 'Andrei, your current rank is...' }
+        div className = 'white f3' > { "COPY URL INTO THE PAGE!" }
 
         <
         /div>
 
         <
-        div className = 'white f1' > { '#5' }
+        div className = 'white f1' > { /*'#5'*/ }
 
         <
         /div> <
